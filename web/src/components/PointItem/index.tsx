@@ -8,6 +8,7 @@ interface Point{
     name: string,
     email: string,
     image: string,
+    image_url: string,
     whatsapp: string,
     city: string,
     uf: string,
@@ -22,7 +23,7 @@ interface PointProps{
 const PointItem: React.FC<PointProps> = ({point}) => {
     return(
     <li key={point.id}>
-        <img src={point.image} alt={point.name} />
+        <img src={point.image_url} alt={point.name} />
         <footer>
             <strong>{point.name}</strong>
             <p>{point.email}</p>

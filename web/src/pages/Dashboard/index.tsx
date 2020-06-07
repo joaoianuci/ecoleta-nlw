@@ -11,6 +11,7 @@ interface Point{
     name: string,
     email: string,
     image: string,
+    image_url: string,
     whatsapp: string,
     city: string,
     uf: string,
