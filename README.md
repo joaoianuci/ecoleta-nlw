@@ -1,6 +1,7 @@
 # Ecoleta
 
-[<img src="https://media2.giphy.com/media/XeSmuXqdwgCaZ3mc7F/giphy.gif"/>]
+<img src="https://media2.giphy.com/media/XeSmuXqdwgCaZ3mc7F/giphy.gif"/>
+<img src="https://media2.giphy.com/media/lnmA6VYjrZoWMbpJIX/giphy.gif"/>
 
 Marketplace digital para pontos de coleta desenvolvido durante a 1th Next Level Week da [Rocketseat](https://github.com/Rocketseat) instruida pelo grande [Diego Fernandes](https://github.com/diego3g).
 
